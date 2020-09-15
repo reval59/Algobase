@@ -1,2 +1,2 @@
 # Algobase
-knowledge base for algorithms &amp; data structures. [Available Link](https://modesty723.gitbook.io/algobase)
+knowledge base for algorithms &amp; data structures. [Visit here](https://modesty723.gitbook.io/algobase)
