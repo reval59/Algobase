@@ -6,5 +6,5 @@ description: Leetcode problems and my solutions
 
 | No. | Problem Title | Difficulty | Date |
 | :--- | :--- | :--- | :--- |
-| 617 | [Merge Two Binary Trees](617.-merge-two-binary-trees.md) | Easy | 2020-09-15 |
+| 617 | Merge Two Binary Trees | Easy | 2020-09-15 |
 
