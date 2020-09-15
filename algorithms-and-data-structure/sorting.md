@@ -6,7 +6,8 @@ description: Implementation of various sorting algorithms
 
 ## 1. Merge Sort
 
+```cpp
 
-
+```
 
 
