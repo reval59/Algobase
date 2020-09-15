@@ -1,0 +1,15 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+*.dSYM
+!spec/*.dSYM
+*.code-workspace
+
+.DS_Store
+.vscode/
+!spec/.DS_Store
