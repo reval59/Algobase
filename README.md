@@ -1,3 +1,7 @@
+---
+description: Noah Kim's personal algobase
+---
+
 # Introduction
 
 Knowledge base for algorithms & data structures to share my ideas, implementations, exploration about algorithm problem-solving. Please visit [here](https://modesty723.gitbook.io/algobase/).
