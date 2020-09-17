@@ -16,16 +16,4 @@ description: Leetcode problems and my solutions
 | 412 | [Fizz Buzz](412.-fizz-buzz.md) | Easy | 2020-09-16 | 3 |
 | 206 | [Reverse Linked List](206.-reverse-linked-list.md) | Easy | 2020-09-16 | 3 |
 | 169 | [Majority Element](169.-majority-element.md) | Easy | 2020-09-16 | 3 |
-| 108 | [Convert Sorted Array to Binary Search Tree](108.-convert-sorted-array-to-binary-search-tree.md) | Easy | 2020-09-17 | 3 |
-| 283 | [Move Zeroes](283.-move-zeroes.md) | Easy | 2020-09-17 | 3 |
-| 122 | [Best Time to Buy and Sell Stock II](122.-best-time-to-buy-and-sell-stock-ii.md) | Easy | 2020-09-17 | 3 |
-| 242 | [Valid Anagram](242.-valid-anagram.md) | Easy | 2020-09-17 | 3 |
-| 171 | [Excel Sheet Column Number](171.-excel-sheet-column-number.md) | Easy | 2020-09-17 | 3 |
-| 217 | [Contains Duplicate](217.-contains-duplicate.md) | Easy | 2020-09-17 | 3 |
-| 448 | [Find All Numbers Disappeared in an Array](448.-find-all-numbers-disappeared-in-an-array.md) | Easy | 2020-09-17 | 3 |
-| 13 | [Roman to Integer](13.-roman-to-integer.md) | Easy | 2020-09-17 | 3 |
-| 21 | [Merge Two Sorted Lists](21.-merge-two-sorted-lists.md) | Easy | 2020-09-17 | 3 |
-| 100 | [Same Tree](100.-same-tree.md) | Easy | 2020-09-17 | 3 |
-
-
 
