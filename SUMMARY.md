@@ -22,6 +22,11 @@
   * [13. Roman to Integer](leetcode/13.-roman-to-integer.md)
   * [21. Merge Two Sorted Lists](leetcode/21.-merge-two-sorted-lists.md)
   * [100. Same Tree](leetcode/100.-same-tree.md)
+  * [121. Best Time to Buy and Sell Stock](leetcode/121.-best-time-to-buy-and-sell-stock.md)
+  * [350. Intersection of Two Arrays II](leetcode/350.-intersection-of-two-arrays-ii.md)
+  * [268. Missing Number](leetcode/268.-missing-number.md)
+  * [118. Pascal's Triangle](leetcode/118.-pascals-triangle.md)
+  * [387. First Unique Character in a String](leetcode/387.-first-unique-character-in-a-string.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
