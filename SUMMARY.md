@@ -37,6 +37,11 @@
   * [9. Palindrome Number](leetcode/9.-palindrome-number.md)
   * [191. Number of 1 Bits](leetcode/191.-number-of-1-bits.md)
   * [202. Happy Number](leetcode/202.-happy-number.md)
+  * [326. Power of Three](leetcode/326.-power-of-three.md)
+  * [198. House Robber](leetcode/198.-house-robber.md)
+  * [66. Plus One](leetcode/66.-plus-one.md)
+  * [724. Find Pivot Index](leetcode/724.-find-pivot-index.md)
+  * [155. Min Stack](leetcode/155.-min-stack.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 

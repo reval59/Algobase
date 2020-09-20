@@ -31,6 +31,21 @@ description: Leetcode problems and my solutions
 | 268 | [Missing Number](268.-missing-number.md) | Easy | 2020-09-18 | 3 |
 | 118 | [Pascal's Triangle](118.-pascals-triangle.md) | Easy | 2020-09-18 | 3 |
 | 387 | [First Unique Character in a String](387.-first-unique-character-in-a-string.md) | Easy | 2020-09-18 | 3 |
+| 38 | [Count and Say](38.-count-and-say.md) | Easy | 2020-09-19 | 3 |
+| 26 | [Remove Duplicates from Sorted Array](26.-remove-duplicates-from-sorted-array.md) | Easy | 2020-09-19 | 3 |
+| 1 | [Two Sum](1.-two-sum.md) | Easy | 2020-09-19 | 3 |
+| 53 | [Maximum Subarray](53.-maximum-subarray.md) | Easy | 2020-09-19 | 3 |
+| 101 | [Symmetric Tree](101.-symmetric-tree.md) | Easy | 2020-09-19 | 3 |
+| 70 | [Climbing Stairs](70.-climbing-stairs.md) | Easy | 2020-09-19 | 3 |
+| 543 | [Diameter of Binary Tree](543.-diameter-of-binary-tree.md) | Easy | 2020-09-19 | 3 |
+| 9 | [Palindrome Number](9.-palindrome-number.md) | Easy | 2020-09-19 | 3 |
+| 191 | [Number of 1 Bits](191.-number-of-1-bits.md) | Easy | 2020-09-19 | 3 |
+| 202 | [Happy Number](202.-happy-number.md) | Easy | 2020-09-19 | 3 |
+| 326 | [Power of Three](326.-power-of-three.md) | Easy | 2020-09-20 | 3 |
+| 198 | [House Robber](198.-house-robber.md) | Easy | 2020-09-20 | 3 |
+| 66 | [Plus One](66.-plus-one.md) | Easy | 2020-09-20 | 3 |
+| 724 | [Find Pivot Index](724.-find-pivot-index.md) | Easy | 2020-09-20 | 3 |
+| 155 | [Min Stack](155.-min-stack.md) | Easy | 2020-09-20 | 3 |
 
 
 
