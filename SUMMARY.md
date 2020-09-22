@@ -52,6 +52,12 @@
   * [190. Reverse Bits](leetcode/190.-reverse-bits.md)
   * [160. Intersection of Two Linked Lists](leetcode/160.-intersection-of-two-linked-lists.md)
   * [141. Linked List Cycle](leetcode/141.-linked-list-cycle.md)
+  * [189. Rotate Array](leetcode/189.-rotate-array.md)
+  * [28. Implement strStr\(\)](leetcode/28.-implement-strstr.md)
+  * [69. Sqrt\(x\)](leetcode/69.-sqrt-x.md)
+  * [204. Count Primes](leetcode/204.-count-primes.md)
+  * [581. Shortest Unsorted Continuous Subarray](leetcode/581.-shortest-unsorted-continuous-subarray.md)
+  * [7. Reverse Integer](leetcode/7.-reverse-integer.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
