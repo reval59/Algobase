@@ -58,6 +58,10 @@
   * [204. Count Primes](leetcode/204.-count-primes.md)
   * [581. Shortest Unsorted Continuous Subarray](leetcode/581.-shortest-unsorted-continuous-subarray.md)
   * [7. Reverse Integer](leetcode/7.-reverse-integer.md)
+  * [763. Partition Labels](leetcode/763.-partition-labels.md)
+  * [338. Counting Bits](leetcode/338.-counting-bits.md)
+  * [406. Queue Reconstruction by Height](leetcode/406.-queue-reconstruction-by-height.md)
+  * [46. Permutations](leetcode/46.-permutations.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 

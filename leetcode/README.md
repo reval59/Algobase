@@ -56,6 +56,16 @@ description: Leetcode problems and my solutions
 | 190 | [Reverse Bits](190.-reverse-bits.md) | Easy | 2020-09-21 | 3 |
 | 160 | [Intersection of Two Linked Lists](160.-intersection-of-two-linked-lists.md) | Easy | 2020-09-21 | 3 |
 | 141 | [Linked List Cycle](141.-linked-list-cycle.md) | Easy | 2020-09-21 | 3 |
+| 189 | [Rotate Array](189.-rotate-array.md) | Easy | 2020-09-22 | 3 |
+| 28 | [Implement strStr\(\)](28.-implement-strstr.md) | Easy | 2020-09-22 | 3 |
+| 69 | [Sqrt\(x\)](69.-sqrt-x.md) | Easy | 2020-09-22 | 3 |
+| 204 | [Count Primes](204.-count-primes.md) | Easy | 2020-09-22 | 3 |
+| 581 | [Shortest Unsorted Continuous Subarray](581.-shortest-unsorted-continuous-subarray.md) | Easy | 2020-09-22 | 3 |
+| 7 | [Reverse Integer](7.-reverse-integer.md) | Easy | 2020-09-22 | 3 |
+| 763 | [Partition Labels](763.-partition-labels.md) | Medium | 2020-09-24 | 3 |
+| 338 | [Counting Bits](338.-counting-bits.md) | Medium | 2020-09-24 | 3 |
+| 406 | [Queue Reconstruction by Height](406.-queue-reconstruction-by-height.md) | Medium | 2020-09-24 | 3 |
+| 46 | [Permutations](46.-permutations.md) | Medium | 2020-09-24 | 3 |
 
 
 
