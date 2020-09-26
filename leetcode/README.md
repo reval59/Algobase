@@ -66,6 +66,10 @@ description: Leetcode problems and my solutions
 | 338 | [Counting Bits](338.-counting-bits.md) | Medium | 2020-09-24 | 3 |
 | 406 | [Queue Reconstruction by Height](406.-queue-reconstruction-by-height.md) | Medium | 2020-09-24 | 3 |
 | 46 | [Permutations](46.-permutations.md) | Medium | 2020-09-24 | 3 |
+| 94 | [Binary Tree Inorder Traversal](94.-binary-tree-inorder-traversal.md) | Medium | 2020-09-26 | 3 |
+| 739 | [Daily Temperature](739.-daily-temperature.md) | Medium | 2020-09-26 | 3 |
+| 22 | [Generate Parentheses](22.-generate-parentheses.md) | Medium | 2020-09-26 | 3 |
+| 78 | [Subsets](78.-subsets.md) | Medium | 2020-09-26 | 3 |
 
 
 
