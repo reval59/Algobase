@@ -62,6 +62,10 @@
   * [338. Counting Bits](leetcode/338.-counting-bits.md)
   * [406. Queue Reconstruction by Height](leetcode/406.-queue-reconstruction-by-height.md)
   * [46. Permutations](leetcode/46.-permutations.md)
+  * [94. Binary Tree Inorder Traversal](leetcode/94.-binary-tree-inorder-traversal.md)
+  * [739. Daily Temperature](leetcode/739.-daily-temperature.md)
+  * [22. Generate Parentheses](leetcode/22.-generate-parentheses.md)
+  * [78. Subsets](leetcode/78.-subsets.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
