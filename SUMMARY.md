@@ -66,6 +66,10 @@
   * [739. Daily Temperature](leetcode/739.-daily-temperature.md)
   * [22. Generate Parentheses](leetcode/22.-generate-parentheses.md)
   * [78. Subsets](leetcode/78.-subsets.md)
+  * [347. Top K Frequent Elements](leetcode/347.-top-k-frequent-elements.md)
+  * [647. Palindromic Substrings](leetcode/647.-palindromic-substrings.md)
+  * [230. Kth Smallest Element in a BST](leetcode/230.-kth-smallest-element-in-a-bst.md)
+  * [238. Product of Array Except Self](leetcode/238.-product-of-array-except-self.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
