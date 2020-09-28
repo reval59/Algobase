@@ -70,6 +70,10 @@
   * [647. Palindromic Substrings](leetcode/647.-palindromic-substrings.md)
   * [230. Kth Smallest Element in a BST](leetcode/230.-kth-smallest-element-in-a-bst.md)
   * [238. Product of Array Except Self](leetcode/238.-product-of-array-except-self.md)
+  * [1143. Longest Common Subsequence](leetcode/1143.-longest-common-subsequence.md)
+  * [48. Rotate Image](leetcode/48.-rotate-image.md)
+  * [49. Group Anagrams](leetcode/49.-group-anagrams.md)
+  * [39. Combination Sum](leetcode/39.-combination-sum.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 

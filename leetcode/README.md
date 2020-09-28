@@ -70,6 +70,14 @@ description: Leetcode problems and my solutions
 | 739 | [Daily Temperature](739.-daily-temperature.md) | Medium | 2020-09-26 | 3 |
 | 22 | [Generate Parentheses](22.-generate-parentheses.md) | Medium | 2020-09-26 | 3 |
 | 78 | [Subsets](78.-subsets.md) | Medium | 2020-09-26 | 3 |
+| 347 | [Top K Frequent Elements](347.-top-k-frequent-elements.md) | Medium | 2020-09-27 | 3 |
+| 647 | [Palindromic Substrings](647.-palindromic-substrings.md) | Medium | 2020-09-27 | 3 |
+| 230 | [Kth Smallest Element in a BST](230.-kth-smallest-element-in-a-bst.md) | Medium | 2020-09-27 | 3 |
+| 238 | [Product of Array Except Self](238.-product-of-array-except-self.md) | Medium | 2020-09-27 | 3 |
+| 1143 | [Longest Common Subsequence](1143.-longest-common-subsequence.md) | Medium | 2020-09-28 | 3 |
+| 48 | [Rotate Image](48.-rotate-image.md) | Medium | 2020-09-28 | 3 |
+| 49 | [Group Anagrams](49.-group-anagrams.md) | Medium | 2020-09-28 | 3 |
+| 39 | [Combination Sum](39.-combination-sum.md) | Medium | 2020-09-28 | 3 |
 
 
 
