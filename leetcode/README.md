@@ -78,6 +78,16 @@ description: Leetcode problems and my solutions
 | 48 | [Rotate Image](48.-rotate-image.md) | Medium | 2020-09-28 | 3 |
 | 49 | [Group Anagrams](49.-group-anagrams.md) | Medium | 2020-09-28 | 3 |
 | 39 | [Combination Sum](39.-combination-sum.md) | Medium | 2020-09-28 | 3 |
+| 454 | [4Sum II](454.-4sum-ii.md) | Medium | 2020-10-01 | 3 |
+| 62 | [Unique Paths](62.-unique-paths.md) | Medium | 2020-10-01 | 3 |
+| 378 | [Kth Smallest Element in a Sorted Matrix](378.-kth-smallest-element-in-a-sorted-matrix.md) | Medium | 2020-10-01 | 3 |
+| 64 | [Minimum Path Sum](64.-minimum-path-sum.md) | Medium | 2020-10-01 | 3 |
+| 102 | [Binary Tree Level Order Traversal](102.-binary-tree-level-order-traversal.md) | Medium | 2020-10-01 | 3 |
+| 289 | [Game of Life](289.-game-of-life.md) | Medium | 2020-10-01 | 3 |
+| 145 | [Binary Tree Postorder Traversal](145.-binary-tree-postorder-traversal.md) | Medium | 2020-10-01 | 3 |
+| 287 | [Find the Duplicate Number](287.-find-the-duplicate-number.md) | Medium | 2020-10-01 | 3 |
+| 215 | [Kth Largest Element in an Array](215.-kth-largest-element-in-an-array.md) | Medium | 2020-10-01 | 3 |
+| 328 | [Odd Even Linked List](328.-odd-even-linked-list.md) | Medium | 2020-10-01 | 3 |
 
 
 
