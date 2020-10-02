@@ -88,6 +88,10 @@ description: Leetcode problems and my solutions
 | 287 | [Find the Duplicate Number](287.-find-the-duplicate-number.md) | Medium | 2020-10-01 | 3 |
 | 215 | [Kth Largest Element in an Array](215.-kth-largest-element-in-an-array.md) | Medium | 2020-10-01 | 3 |
 | 328 | [Odd Even Linked List](328.-odd-even-linked-list.md) | Medium | 2020-10-01 | 3 |
+| 875 | [Koko Eating Bananas](875.-koko-eating-bananas.md) | Medium | 2020-10-02 | 3 |
+| 384 | [Shuffle an Array](384.-shuffle-an-array.md) | Medium | 2020-10-02 | 3 |
+| 341 | [Flatten Nested List Iterator](341.-flatten-nested-list-iterator.md) | Medium | 2020-10-02 | 3 |
+| 96 | [Unique Binary Search Trees](96.-unique-binary-search-trees.md) | Medium | 2020-10-02 | 3 |
 
 
 

@@ -84,6 +84,10 @@
   * [287. Find the Duplicate Number](leetcode/287.-find-the-duplicate-number.md)
   * [215. Kth Largest Element in an Array](leetcode/215.-kth-largest-element-in-an-array.md)
   * [328. Odd Even Linked List](leetcode/328.-odd-even-linked-list.md)
+  * [875. Koko Eating Bananas](leetcode/875.-koko-eating-bananas.md)
+  * [384. Shuffle an Array](leetcode/384.-shuffle-an-array.md)
+  * [341. Flatten Nested List Iterator](leetcode/341.-flatten-nested-list-iterator.md)
+  * [96. Unique Binary Search Trees](leetcode/96.-unique-binary-search-trees.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
