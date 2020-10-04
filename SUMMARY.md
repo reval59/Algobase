@@ -88,6 +88,10 @@
   * [384. Shuffle an Array](leetcode/384.-shuffle-an-array.md)
   * [341. Flatten Nested List Iterator](leetcode/341.-flatten-nested-list-iterator.md)
   * [96. Unique Binary Search Trees](leetcode/96.-unique-binary-search-trees.md)
+  * [11. Container With Most Water](leetcode/11.-container-with-most-water.md)
+  * [337. House Robber III](leetcode/337.-house-robber-iii.md)
+  * [394. Decode String](leetcode/394.-decode-string.md)
+  * [371. Sum of Two Integers](leetcode/371.-sum-of-two-integers.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 

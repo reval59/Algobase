@@ -92,6 +92,10 @@ description: Leetcode problems and my solutions
 | 384 | [Shuffle an Array](384.-shuffle-an-array.md) | Medium | 2020-10-02 | 3 |
 | 341 | [Flatten Nested List Iterator](341.-flatten-nested-list-iterator.md) | Medium | 2020-10-02 | 3 |
 | 96 | [Unique Binary Search Trees](96.-unique-binary-search-trees.md) | Medium | 2020-10-02 | 3 |
+| 11 | [Container With Most Water](11.-container-with-most-water.md) | Medium | 2020-10-04 | 3 |
+| 337 | [House Robber III](337.-house-robber-iii.md) | Medium | 2020-10-04 | 3 |
+| 394 | [Decode String](394.-decode-string.md) | Medium | 2020-10-04 | 3 |
+| 371 | [Sum of Two Integers](371.-sum-of-two-integers.md) | Medium | 2020-10-04 | 3 |
 
 
 
