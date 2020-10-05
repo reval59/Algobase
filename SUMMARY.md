@@ -92,6 +92,10 @@
   * [337. House Robber III](leetcode/337.-house-robber-iii.md)
   * [394. Decode String](leetcode/394.-decode-string.md)
   * [371. Sum of Two Integers](leetcode/371.-sum-of-two-integers.md)
+  * [621. Task Scheduler](leetcode/621.-task-scheduler.md)
+  * [208. Implement Trie \(Prefix Tree\)](leetcode/208.-implement-trie-prefix-tree.md)
+  * [114. Flatten Binary Tree to Linked List](leetcode/114.-flatten-binary-tree-to-linked-list.md)
+  * [105. Construct Binary Tree from Preorder and Inorder Traversal](leetcode/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 

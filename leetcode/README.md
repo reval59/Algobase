@@ -96,6 +96,10 @@ description: Leetcode problems and my solutions
 | 337 | [House Robber III](337.-house-robber-iii.md) | Medium | 2020-10-04 | 3 |
 | 394 | [Decode String](394.-decode-string.md) | Medium | 2020-10-04 | 3 |
 | 371 | [Sum of Two Integers](371.-sum-of-two-integers.md) | Medium | 2020-10-04 | 3 |
+| 621 | [Task Scheduler](621.-task-scheduler.md) | Medium | 2020-10-05 | 3 |
+| 208 | [Implement Trie \(Prefix Tree\)](208.-implement-trie-prefix-tree.md) | Medium | 2020-10-05 | 3 |
+| 114 | [Flatten Binary Tree to Linked List](114.-flatten-binary-tree-to-linked-list.md) | Medium | 2020-10-05 | 3 |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](105.-construct-binary-tree-from-preorder-and-inorder-traversal.md) | Medium | 2020-10-05 | 3 |
 
 
 
