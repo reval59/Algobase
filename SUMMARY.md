@@ -96,6 +96,10 @@
   * [208. Implement Trie \(Prefix Tree\)](leetcode/208.-implement-trie-prefix-tree.md)
   * [114. Flatten Binary Tree to Linked List](leetcode/114.-flatten-binary-tree-to-linked-list.md)
   * [105. Construct Binary Tree from Preorder and Inorder Traversal](leetcode/105.-construct-binary-tree-from-preorder-and-inorder-traversal.md)
+  * [75. Sort Colors](leetcode/75.-sort-colors.md)
+  * [131. Palindrome Partitioning](leetcode/131.-palindrome-partitioning.md)
+  * [103. Binary Tree Zigzag Level Order Traversal](leetcode/103.-binary-tree-zigzag-level-order-traversal.md)
+  * [36. Valid Sudoku](leetcode/36.-valid-sudoku.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 

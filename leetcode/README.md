@@ -100,6 +100,10 @@ description: Leetcode problems and my solutions
 | 208 | [Implement Trie \(Prefix Tree\)](208.-implement-trie-prefix-tree.md) | Medium | 2020-10-05 | 3 |
 | 114 | [Flatten Binary Tree to Linked List](114.-flatten-binary-tree-to-linked-list.md) | Medium | 2020-10-05 | 3 |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](105.-construct-binary-tree-from-preorder-and-inorder-traversal.md) | Medium | 2020-10-05 | 3 |
+| 75 | [Sort Colors](75.-sort-colors.md) | Medium | 2020-10-06 | 3 |
+| 131 | [Palindrome Partitioning](131.-palindrome-partitioning.md) | Medium | 2020-10-06 | 3 |
+| 103 | [Binary Tree Zigzag Level Order Traversal](103.-binary-tree-zigzag-level-order-traversal.md) | Medium | 2020-10-06 | 3 |
+| 36 | [Valid Sudoku](36.-valid-sudoku.md) | Medium | 2020-10-06 | 3 |
 
 
 
