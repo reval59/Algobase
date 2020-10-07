@@ -104,6 +104,10 @@ description: Leetcode problems and my solutions
 | 131 | [Palindrome Partitioning](131.-palindrome-partitioning.md) | Medium | 2020-10-06 | 3 |
 | 103 | [Binary Tree Zigzag Level Order Traversal](103.-binary-tree-zigzag-level-order-traversal.md) | Medium | 2020-10-06 | 3 |
 | 36 | [Valid Sudoku](36.-valid-sudoku.md) | Medium | 2020-10-06 | 3 |
+| 17 | [Letter Combinations of a Phone Number](17.-letter-combinations-of-a-phone-number.md) | Medium | 2020-10-07 | 3 |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](309.-best-time-to-buy-and-sell-stock-with-cooldown.md) | Medium | 2020-10-07 | 3 |
+| 279 | [Perfect Squares](279.-perfect-squares.md) | Medium | 2020-10-07 | 3 |
+| 380 | [Insert Delete GetRandom O\(1\)](380.-insert-delete-getrandom-o-1.md) | Medium | 2020-10-07 | 3 |
 
 
 

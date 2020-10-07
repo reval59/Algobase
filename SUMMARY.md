@@ -100,6 +100,10 @@
   * [131. Palindrome Partitioning](leetcode/131.-palindrome-partitioning.md)
   * [103. Binary Tree Zigzag Level Order Traversal](leetcode/103.-binary-tree-zigzag-level-order-traversal.md)
   * [36. Valid Sudoku](leetcode/36.-valid-sudoku.md)
+  * [17. Letter Combinations of a Phone Number](leetcode/17.-letter-combinations-of-a-phone-number.md)
+  * [309. Best Time to Buy and Sell Stock with Cooldown](leetcode/309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
+  * [279. Perfect Squares](leetcode/279.-perfect-squares.md)
+  * [380. Insert Delete GetRandom O\(1\)](leetcode/380.-insert-delete-getrandom-o-1.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
