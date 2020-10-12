@@ -108,6 +108,10 @@ description: Leetcode problems and my solutions
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](309.-best-time-to-buy-and-sell-stock-with-cooldown.md) | Medium | 2020-10-07 | 3 |
 | 279 | [Perfect Squares](279.-perfect-squares.md) | Medium | 2020-10-07 | 3 |
 | 380 | [Insert Delete GetRandom O\(1\)](380.-insert-delete-getrandom-o-1.md) | Medium | 2020-10-07 | 3 |
+| 116 | [Populating Next Right Pointers in Each Node](116.-populating-next-right-pointers-in-each-node.md) | Medium | 2020-10-12 | 3 |
+| 236 | [Lowest Common Ancestor of a Binary Tree](236.-lowest-common-ancestor-of-a-binary-tree.md) | Medium | 2020-10-12 | 3 |
+| 200 | [Number of Islands](200.-number-of-islands.md) | Medium | 2020-10-12 | 3 |
+| 437 | [Path Sum III](437.-path-sum-iii.md) | Medium | 2020-10-12 | 3 |
 
 
 

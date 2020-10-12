@@ -104,6 +104,10 @@
   * [309. Best Time to Buy and Sell Stock with Cooldown](leetcode/309.-best-time-to-buy-and-sell-stock-with-cooldown.md)
   * [279. Perfect Squares](leetcode/279.-perfect-squares.md)
   * [380. Insert Delete GetRandom O\(1\)](leetcode/380.-insert-delete-getrandom-o-1.md)
+  * [116. Populating Next Right Pointers in Each Node](leetcode/116.-populating-next-right-pointers-in-each-node.md)
+  * [236. Lowest Common Ancestor of a Binary Tree](leetcode/236.-lowest-common-ancestor-of-a-binary-tree.md)
+  * [200. Number of Islands](leetcode/200.-number-of-islands.md)
+  * [437. Path Sum III](leetcode/437.-path-sum-iii.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
