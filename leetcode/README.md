@@ -112,6 +112,10 @@ description: Leetcode problems and my solutions
 | 236 | [Lowest Common Ancestor of a Binary Tree](236.-lowest-common-ancestor-of-a-binary-tree.md) | Medium | 2020-10-12 | 3 |
 | 200 | [Number of Islands](200.-number-of-islands.md) | Medium | 2020-10-12 | 3 |
 | 437 | [Path Sum III](437.-path-sum-iii.md) | Medium | 2020-10-12 | 3 |
+| 416 | [Partition Equal Subset Sum](416.-partition-equal-subset-sum.md) | Medium | 2020-10-13 | 3 |
+| 1049 | [Last Stone Weight II](1049.-last-stone-weight-ii.md) | Medium | 2020-10-13 | 3 |
+| 494 | [Target Sum](494.-target-sum.md) | Medium | 2020-10-13 | 3 |
+| 16 | [3Sum Closest](16.-3sum-closest.md) | Medium | 2020-10-13 | 3 |
 
 
 

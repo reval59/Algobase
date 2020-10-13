@@ -108,6 +108,10 @@
   * [236. Lowest Common Ancestor of a Binary Tree](leetcode/236.-lowest-common-ancestor-of-a-binary-tree.md)
   * [200. Number of Islands](leetcode/200.-number-of-islands.md)
   * [437. Path Sum III](leetcode/437.-path-sum-iii.md)
+  * [416. Partition Equal Subset Sum](leetcode/416.-partition-equal-subset-sum.md)
+  * [1049. Last Stone Weight II](leetcode/1049.-last-stone-weight-ii.md)
+  * [494. Target Sum](leetcode/494.-target-sum.md)
+  * [16. 3Sum Closest](leetcode/16.-3sum-closest.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
