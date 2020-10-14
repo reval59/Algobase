@@ -112,6 +112,10 @@
   * [1049. Last Stone Weight II](leetcode/1049.-last-stone-weight-ii.md)
   * [494. Target Sum](leetcode/494.-target-sum.md)
   * [16. 3Sum Closest](leetcode/16.-3sum-closest.md)
+  * [148. Sort List](leetcode/148.-sort-list.md)
+  * [207. Course Schedule](leetcode/207.-course-schedule.md)
+  * [560. Subarray Sum Equals K](leetcode/560.-subarray-sum-equals-k.md)
+  * [438. Find All Anagrams in a String](leetcode/438.-find-all-anagrams-in-a-string.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
