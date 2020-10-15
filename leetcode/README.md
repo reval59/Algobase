@@ -120,8 +120,10 @@ description: Leetcode problems and my solutions
 | 207 | [Course Schedule](207.-course-schedule.md) | Medium | 2020-10-14 | 3 |
 | 560 | [Subarray Sum Equals K](560.-subarray-sum-equals-k.md) | Medium | 2020-10-14 | 3 |
 | 438 | [Find All Anagrams in a String](438.-find-all-anagrams-in-a-string.md) | Medium | 2020-10-14 | 3 |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 300 | [Longest Increasing Subsequence](300.-longest-increasing-subsequence.md) | Medium | 2020-10-15 | 3 |
+| 240 | [Search a 2D Matrix II](240.-search-a-2d-matrix-ii.md) | Medium | 2020-10-15 | 3 |
+| 162 | [Find Peak Element](162.-find-peak-element.md) | Medium | 2020-10-15 | 3 |
+| 73 | [Set Matrix Zeroes](73.-set-matrix-zeroes.md) | Medium | 2020-10-15 | 3 |
 
 
 
