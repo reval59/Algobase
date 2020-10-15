@@ -116,6 +116,10 @@
   * [207. Course Schedule](leetcode/207.-course-schedule.md)
   * [560. Subarray Sum Equals K](leetcode/560.-subarray-sum-equals-k.md)
   * [438. Find All Anagrams in a String](leetcode/438.-find-all-anagrams-in-a-string.md)
+  * [300. Longest Increasing Subsequence](leetcode/300.-longest-increasing-subsequence.md)
+  * [240. Search a 2D Matrix II](leetcode/240.-search-a-2d-matrix-ii.md)
+  * [162. Find Peak Element](leetcode/162.-find-peak-element.md)
+  * [73. Set Matrix Zeroes](leetcode/73.-set-matrix-zeroes.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
