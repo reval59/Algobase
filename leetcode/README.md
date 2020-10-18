@@ -124,6 +124,10 @@ description: Leetcode problems and my solutions
 | 240 | [Search a 2D Matrix II](240.-search-a-2d-matrix-ii.md) | Medium | 2020-10-15 | 3 |
 | 162 | [Find Peak Element](162.-find-peak-element.md) | Medium | 2020-10-15 | 3 |
 | 73 | [Set Matrix Zeroes](73.-set-matrix-zeroes.md) | Medium | 2020-10-15 | 3 |
+| 134 | [Gas Station](134.-gas-station.md) | Medium | 2020-10-18 | 3 |
+| 139 | [Word Break](139.-word-break.md) | Medium | 2020-10-18 | 3 |
+| 210 | [Course Schedule II](210.-course-schedule-ii.md) | Medium | 2020-10-18 | 3 |
+| 395 | [Longest Substring with At Least K Repeating Characters](395.-longest-substring-with-at-least-k-repeating-characters.md) | Medium | 2020-10-18 | 3 |
 
 
 

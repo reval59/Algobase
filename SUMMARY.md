@@ -120,6 +120,10 @@
   * [240. Search a 2D Matrix II](leetcode/240.-search-a-2d-matrix-ii.md)
   * [162. Find Peak Element](leetcode/162.-find-peak-element.md)
   * [73. Set Matrix Zeroes](leetcode/73.-set-matrix-zeroes.md)
+  * [134. Gas Station](leetcode/134.-gas-station.md)
+  * [139. Word Break](leetcode/139.-word-break.md)
+  * [210. Course Schedule II](leetcode/210.-course-schedule-ii.md)
+  * [395. Longest Substring with At Least K Repeating Characters](leetcode/395.-longest-substring-with-at-least-k-repeating-characters.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
