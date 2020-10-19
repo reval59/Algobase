@@ -124,6 +124,10 @@
   * [139. Word Break](leetcode/139.-word-break.md)
   * [210. Course Schedule II](leetcode/210.-course-schedule-ii.md)
   * [395. Longest Substring with At Least K Repeating Characters](leetcode/395.-longest-substring-with-at-least-k-repeating-characters.md)
+  * [787. Cheapest Flights Within K Stops](leetcode/787.-cheapest-flights-within-k-stops.md)
+  * [56. Merge Intervals](leetcode/56.-merge-intervals.md)
+  * [334. Increasing Triplet Subsequence](leetcode/334.-increasing-triplet-subsequence.md)
+  * [713. Subarray Product Less Than K](leetcode/713.-subarray-product-less-than-k.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
