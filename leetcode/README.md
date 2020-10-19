@@ -128,10 +128,10 @@ description: Leetcode problems and my solutions
 | 139 | [Word Break](139.-word-break.md) | Medium | 2020-10-18 | 3 |
 | 210 | [Course Schedule II](210.-course-schedule-ii.md) | Medium | 2020-10-18 | 3 |
 | 395 | [Longest Substring with At Least K Repeating Characters](395.-longest-substring-with-at-least-k-repeating-characters.md) | Medium | 2020-10-18 | 3 |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| 787 | [Cheapest Flights Within K Stops](787.-cheapest-flights-within-k-stops.md) | Medium | 2020-10-19 | 3 |
+| 56 | [Merge Intervals](56.-merge-intervals.md) | Medium | 2020-10-19 | 3 |
+| 334 | [Increasing Triplet Subsequence](334.-increasing-triplet-subsequence.md) | Medium | 2020-10-19 | 3 |
+| 713 | [Subarray Product Less Than K](713.-subarray-product-less-than-k.md) | Medium | 2020-10-19 | 3 |
 
 
 
