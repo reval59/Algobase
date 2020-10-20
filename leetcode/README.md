@@ -132,6 +132,10 @@ description: Leetcode problems and my solutions
 | 56 | [Merge Intervals](56.-merge-intervals.md) | Medium | 2020-10-19 | 3 |
 | 334 | [Increasing Triplet Subsequence](334.-increasing-triplet-subsequence.md) | Medium | 2020-10-19 | 3 |
 | 713 | [Subarray Product Less Than K](713.-subarray-product-less-than-k.md) | Medium | 2020-10-19 | 3 |
+| 142 | [Linked List Cycle II](142.-linked-list-cycle-ii.md) | Medium | 2020-10-20 | 3 |
+| 221 | [Maximal Square](221.-maximal-square.md) | Medium | 2020-10-20 | 3 |
+| 138 | [Copy List with Random Pointer](138.-copy-list-with-random-pointer.md) | Medium | 2020-10-20 | 3 |
+| 227 | [Basic Calculator II](227.-basic-calculator-ii.md) | Medium | 2020-10-20 | 3 |
 
 
 

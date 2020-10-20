@@ -128,6 +128,10 @@
   * [56. Merge Intervals](leetcode/56.-merge-intervals.md)
   * [334. Increasing Triplet Subsequence](leetcode/334.-increasing-triplet-subsequence.md)
   * [713. Subarray Product Less Than K](leetcode/713.-subarray-product-less-than-k.md)
+  * [142. Linked List Cycle II](leetcode/142.-linked-list-cycle-ii.md)
+  * [221. Maximal Square](leetcode/221.-maximal-square.md)
+  * [138. Copy List with Random Pointer](leetcode/138.-copy-list-with-random-pointer.md)
+  * [227. Basic Calculator II](leetcode/227.-basic-calculator-ii.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
