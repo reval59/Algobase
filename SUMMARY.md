@@ -132,6 +132,10 @@
   * [221. Maximal Square](leetcode/221.-maximal-square.md)
   * [138. Copy List with Random Pointer](leetcode/138.-copy-list-with-random-pointer.md)
   * [227. Basic Calculator II](leetcode/227.-basic-calculator-ii.md)
+  * [6. ZigZag Conversion](leetcode/6.-zigzag-conversion.md)
+  * [150. Evaluate Reverse Polish Notation](leetcode/150.-evaluate-reverse-polish-notation.md)
+  * [34. Find First and Last Position of Element in Sorted Array](leetcode/34.-find-first-and-last-position-of-element-in-sorted-array.md)
+  * [322. Coin Change](leetcode/322.-coin-change.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
