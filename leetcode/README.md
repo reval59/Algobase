@@ -136,6 +136,10 @@ description: Leetcode problems and my solutions
 | 221 | [Maximal Square](221.-maximal-square.md) | Medium | 2020-10-20 | 3 |
 | 138 | [Copy List with Random Pointer](138.-copy-list-with-random-pointer.md) | Medium | 2020-10-20 | 3 |
 | 227 | [Basic Calculator II](227.-basic-calculator-ii.md) | Medium | 2020-10-20 | 3 |
+| 6 | [ZigZag Conversion](6.-zigzag-conversion.md) | Medium | 2020-10-21 | 3 |
+| 150 | [Evaluate Reverse Polish Notation](150.-evaluate-reverse-polish-notation.md) | Medium | 2020-10-21 | 3 |
+| 34 | [Find First and Last Position of Element in Sorted Array](34.-find-first-and-last-position-of-element-in-sorted-array.md) | Medium | 2020-10-21 | 3 |
+| 322 | [Coin Change](322.-coin-change.md) | Medium | 2020-10-21 | 3 |
 
 
 
