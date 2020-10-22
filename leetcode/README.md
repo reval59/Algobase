@@ -140,6 +140,11 @@ description: Leetcode problems and my solutions
 | 150 | [Evaluate Reverse Polish Notation](150.-evaluate-reverse-polish-notation.md) | Medium | 2020-10-21 | 3 |
 | 34 | [Find First and Last Position of Element in Sorted Array](34.-find-first-and-last-position-of-element-in-sorted-array.md) | Medium | 2020-10-21 | 3 |
 | 322 | [Coin Change](322.-coin-change.md) | Medium | 2020-10-21 | 3 |
+| 189 |  |  |  |  |
+| 19 |  |  |  |  |
+| 33 |  |  |  |  |
+| 63 |  |  |  |  |
+|  |  |  |  |  |
 
 
 

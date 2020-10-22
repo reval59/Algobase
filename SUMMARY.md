@@ -136,6 +136,10 @@
   * [150. Evaluate Reverse Polish Notation](leetcode/150.-evaluate-reverse-polish-notation.md)
   * [34. Find First and Last Position of Element in Sorted Array](leetcode/34.-find-first-and-last-position-of-element-in-sorted-array.md)
   * [322. Coin Change](leetcode/322.-coin-change.md)
+  * [189. Rotate Array](leetcode/189.-rotate-array-1.md)
+  * [19.Remove Nth Node From End of List](leetcode/19.remove-nth-node-from-end-of-list.md)
+  * [33. Search in Rotated Sorted Array](leetcode/33.-search-in-rotated-sorted-array.md)
+  * [63. Unique Paths II](leetcode/63.-unique-paths-ii.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
