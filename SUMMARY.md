@@ -140,6 +140,10 @@
   * [19.Remove Nth Node From End of List](leetcode/19.remove-nth-node-from-end-of-list.md)
   * [33. Search in Rotated Sorted Array](leetcode/33.-search-in-rotated-sorted-array.md)
   * [63. Unique Paths II](leetcode/63.-unique-paths-ii.md)
+  * [146. LRU Cache](leetcode/146.-lru-cache.md)
+  * [2. Add Two Numbers](leetcode/2.-add-two-numbers.md)
+  * [54. Spiral Matrix](leetcode/54.-spiral-matrix.md)
+  * [55. Jump Game](leetcode/55.-jump-game.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
