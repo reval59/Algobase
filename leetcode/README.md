@@ -144,7 +144,10 @@ description: Leetcode problems and my solutions
 | 19 | [Remove Nth Node From End of List](19.remove-nth-node-from-end-of-list.md) | Medium | 2020-10-22 | 3 |
 | 33 | [Search in Rotated Sorted Array](33.-search-in-rotated-sorted-array.md) | Medium | 2020-10-22 | 3 |
 | 63 | [Unique Paths II](63.-unique-paths-ii.md) | Medium | 2020-10-22 | 3 |
-|  |  |  |  |  |
+| 146 | [LRU Cache](146.-lru-cache.md) | Medium | 2020-10-25 | 3 |
+| 2 | [Add Two Numbers](2.-add-two-numbers.md) | Medium | 2020-10-25 | 3 |
+| 54 | [Spiral Matrix](54.-spiral-matrix.md) | Medium | 2020-10-25 | 3 |
+| 55 | [Jump Game](55.-jump-game.md) | Medium | 2020-10-25 | 3 |
 
 
 
