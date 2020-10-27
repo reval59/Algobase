@@ -146,7 +146,7 @@
   * [55. Jump Game](leetcode/55.-jump-game.md)
   * [50. Pow\(x, n\)](leetcode/50.-pow-x-n.md)
   * [3. Longest Substring Without Repeating Characters](leetcode/untitled-1.md)
-  * [Untitled](leetcode/untitled.md)
+  * [152. Maximum Product Subarray](leetcode/untitled.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
