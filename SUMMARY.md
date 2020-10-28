@@ -147,6 +147,10 @@
   * [50. Pow\(x, n\)](leetcode/50.-pow-x-n.md)
   * [3. Longest Substring Without Repeating Characters](leetcode/untitled-1.md)
   * [152. Maximum Product Subarray](leetcode/untitled.md)
+  * [5. Longest Palindromic Substring](leetcode/5.-longest-palindromic-substring.md)
+  * [179. Largest Number](leetcode/179.-largest-number.md)
+  * [324. Wiggle Sort II](leetcode/324.-wiggle-sort-ii.md)
+  * [127. Word Ladder](leetcode/127.-word-ladder.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
