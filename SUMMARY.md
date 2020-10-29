@@ -151,6 +151,10 @@
   * [179. Largest Number](leetcode/179.-largest-number.md)
   * [324. Wiggle Sort II](leetcode/324.-wiggle-sort-ii.md)
   * [127. Word Ladder](leetcode/127.-word-ladder.md)
+  * [91. Decode Ways](leetcode/91.-decode-ways.md)
+  * [15. 3Sum](leetcode/15.-3sum.md)
+  * [98. Validate Binary Search Tree](leetcode/98.-validate-binary-search-tree.md)
+  * [130. Surrounded Regions](leetcode/130.-surrounded-regions.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
