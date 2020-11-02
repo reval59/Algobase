@@ -155,6 +155,9 @@
   * [15. 3Sum](leetcode/15.-3sum.md)
   * [98. Validate Binary Search Tree](leetcode/98.-validate-binary-search-tree.md)
   * [130. Surrounded Regions](leetcode/130.-surrounded-regions.md)
+  * [8. String to Integer \(atoi\)](leetcode/8.-string-to-integer-atoi.md)
+  * [29. Divide Two Integers](leetcode/29.-divide-two-integers.md)
+  * [166. Fraction to Recurring Decimal](leetcode/166.-fraction-to-recurring-decimal.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 

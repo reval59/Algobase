@@ -148,6 +148,18 @@ description: Leetcode problems and my solutions
 | 2 | [Add Two Numbers](2.-add-two-numbers.md) | Medium | 2020-10-25 | 3 |
 | 54 | [Spiral Matrix](54.-spiral-matrix.md) | Medium | 2020-10-25 | 3 |
 | 55 | [Jump Game](55.-jump-game.md) | Medium | 2020-10-25 | 3 |
+| 50 | [Pow\(x, n\)](50.-pow-x-n.md) | Medium | 2020-10-27 | 3 |
+| 3 | [Longest Substring Without Repeating Characters](untitled-1.md) | Medium | 2020-10-27 | 3 |
+| 152 | [Maximum Product Subarray](untitled.md) | Medium | 2020-10-27 | 3 |
+| 5 | [Longest Palindromic Substring](5.-longest-palindromic-substring.md) | Medium | 2020-10-28 | 3 |
+| 179 | [Largest Number](179.-largest-number.md) | Medium | 2020-10-28 | 3 |
+| 324 | [Wiggle Sort II](324.-wiggle-sort-ii.md) | Medium | 2020-10-28 | 3 |
+| 127 | [Word Ladder](127.-word-ladder.md) | Medium | 2020-10-28 | 3 |
+| 91 | [Decode Ways](91.-decode-ways.md) | Medium | 2020-10-29 | 3 |
+| 15 | [3Sum](15.-3sum.md) | Medium | 2020-10-29 | 3 |
+| 98 | [Validate Binary Search Tree](98.-validate-binary-search-tree.md) | Medium | 2020-10-29 | 3 |
+| 130 | [Surrounded Regions](130.-surrounded-regions.md) | Medium | 2020-10-29 | 3 |
+|  |  |  |  |  |
 
 
 
