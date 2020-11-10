@@ -164,6 +164,7 @@ description: Leetcode problems and my solutions
 | 72 | [Edit Distance](72.-edit-distance.md) | Hard | 2020-11-04 | 3 |
 | 295 | [Find Median from Data Stream](295.-find-median-from-data-stream.md) | Hard | 2020-11-04 | 3 |
 | 123 | [Best Time to Buy and Sell Stock III](123.-best-time-to-buy-and-sell-stock-iii.md) | Hard | 2020-11-09 | 3 |
+| 829 | [Consecutive Numbers Sum](829.-consecutive-numbers-sum.md) | Hard | 2020-11-10 | 3 |
 
 
 
