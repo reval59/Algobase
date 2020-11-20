@@ -164,7 +164,7 @@
   * [829. Consecutive Numbers Sum](leetcode/829.-consecutive-numbers-sum.md)
   * [31. Next Permutation](leetcode/31.-next-permutation.md)
   * [173. Binary Search Tree Iterator](leetcode/173.-binary-search-tree-iterator.md)
-  * [Reverse Linked List II](leetcode/reverse-linked-list-ii.md)
+  * [92. Reverse Linked List II](leetcode/reverse-linked-list-ii.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
