@@ -168,6 +168,7 @@ description: Leetcode problems and my solutions
 | 31 | [Next Permutation](31.-next-permutation.md) | Medium | 2020-11-16 | 1 |
 | 173 | [Binary Search Tree Iterator](173.-binary-search-tree-iterator.md) | Medium | 2020-11-17 | 1 |
 | 92 | [Reverse Linked List II](reverse-linked-list-ii.md) | Medium | 2020-11-20 | 1 |
+| 95 | [Unique Binary Search Trees II](95.-unique-binary-search-trees-ii.md) | Medium | 2020-11-23 | 1 |
 
 
 
