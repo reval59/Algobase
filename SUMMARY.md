@@ -166,6 +166,7 @@
   * [173. Binary Search Tree Iterator](leetcode/173.-binary-search-tree-iterator.md)
   * [92. Reverse Linked List II](leetcode/reverse-linked-list-ii.md)
   * [95. Unique Binary Search Trees II](leetcode/95.-unique-binary-search-trees-ii.md)
+  * [24. Swap Nodes in Pairs](leetcode/24.-swap-nodes-in-pairs.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
