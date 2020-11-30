@@ -171,8 +171,6 @@ description: Leetcode problems and my solutions
 | 95 | [Unique Binary Search Trees II](95.-unique-binary-search-trees-ii.md) | Medium | 2020-11-23 | 1 |
 | 24 | [Swap Nodes in Pairs](24.-swap-nodes-in-pairs.md) | Medium | 2020-11-24 | 1 |
 | 209 | [Minimum Size Subarray Sum](209.-minimum-size-subarray-sum.md) | Medium | 2020-11-25 | 1 |
-| 199. | [Binary Tree Right Side View](199.-binary-tree-right-side-view.md) | Medium | 2020-11-26 | 1 |
-| 120. | [Triangle](120.-triangle.md) | Medium | 2020-11-28 | 1 |
 
 
 
