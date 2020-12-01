@@ -171,6 +171,7 @@
   * [199. Binary Tree Right Side View](leetcode/199.-binary-tree-right-side-view.md)
   * [120. Triangle](leetcode/120.-triangle.md)
   * [188. Best Time to Buy and Sell Stock IV](leetcode/188.-best-time-to-buy-and-sell-stock-iv.md)
+  * [442. Find All Duplicates in an Array](leetcode/442.-find-all-duplicates-in-an-array.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
