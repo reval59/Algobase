@@ -175,6 +175,7 @@ description: Leetcode problems and my solutions
 | 120 | [Triangle](120.-triangle.md) | Medium | 2020-11-28 | 1 |
 | 188 | [Best Time to Buy and Sell Stock IV](188.-best-time-to-buy-and-sell-stock-iv.md) | Hard | 2020-11-30 | 1 |
 | 442 | [Find All Duplicates in an Array](442.-find-all-duplicates-in-an-array.md) | Medium | 2020-12-01 | 1 |
+| 222 | [Count Complete Tree Nodes](222.-count-complete-tree-nodes.md) | Medium | 2020-12-02 | 1 |
 
 
 
