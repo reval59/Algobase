@@ -171,9 +171,12 @@ description: Leetcode problems and my solutions
 | 95 | [Unique Binary Search Trees II](95.-unique-binary-search-trees-ii.md) | Medium | 2020-11-23 | 1 |
 | 24 | [Swap Nodes in Pairs](24.-swap-nodes-in-pairs.md) | Medium | 2020-11-24 | 1 |
 | 209 | [Minimum Size Subarray Sum](209.-minimum-size-subarray-sum.md) | Medium | 2020-11-25 | 1 |
-| 199. | [Binary Tree Right Side View](199.-binary-tree-right-side-view.md) | Medium | 2020-11-26 | 1 |
-| 120. | [Triangle](120.-triangle.md) | Medium | 2020-11-28 | 1 |
-| 188. | [Best Time to Buy and Sell Stock IV](188.-best-time-to-buy-and-sell-stock-iv.md) | Hard | 2020-11-30 | 1 |
+| 199 | [Binary Tree Right Side View](199.-binary-tree-right-side-view.md) | Medium | 2020-11-26 | 1 |
+| 120 | [Triangle](120.-triangle.md) | Medium | 2020-11-28 | 1 |
+| 188 | [Best Time to Buy and Sell Stock IV](188.-best-time-to-buy-and-sell-stock-iv.md) | Hard | 2020-11-30 | 1 |
+| 442 | [Find All Duplicates in an Array](442.-find-all-duplicates-in-an-array.md) | Medium | 2020-12-01 | 1 |
+| 222 | [Count Complete Tree Nodes](222.-count-complete-tree-nodes.md) | Medium | 2020-12-02 | 1 |
+| 47. | [Permutations II](47.-permutations-ii.md) | Medium | 2020-12-02 | 1 |
 
 
 

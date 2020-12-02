@@ -173,6 +173,7 @@
   * [188. Best Time to Buy and Sell Stock IV](leetcode/188.-best-time-to-buy-and-sell-stock-iv.md)
   * [442. Find All Duplicates in an Array](leetcode/442.-find-all-duplicates-in-an-array.md)
   * [222. Count Complete Tree Nodes](leetcode/222.-count-complete-tree-nodes.md)
+  * [47. Permutations II](leetcode/47.-permutations-ii.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
