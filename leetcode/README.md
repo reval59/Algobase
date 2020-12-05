@@ -176,7 +176,8 @@ description: Leetcode problems and my solutions
 | 188 | [Best Time to Buy and Sell Stock IV](188.-best-time-to-buy-and-sell-stock-iv.md) | Hard | 2020-11-30 | 1 |
 | 442 | [Find All Duplicates in an Array](442.-find-all-duplicates-in-an-array.md) | Medium | 2020-12-01 | 1 |
 | 222 | [Count Complete Tree Nodes](222.-count-complete-tree-nodes.md) | Medium | 2020-12-02 | 1 |
-| 47. | [Permutations II](47.-permutations-ii.md) | Medium | 2020-12-02 | 1 |
+| 47 | [Permutations II](47.-permutations-ii.md) | Medium | 2020-12-02 | 1 |
+| 109 | [Convert Sorted List to Binary Search Tree](109.-convert-sorted-list-to-binary-search-tree.md) | Medium | 2020-12-05 | 1 |
 
 
 
