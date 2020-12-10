@@ -178,9 +178,6 @@ description: Leetcode problems and my solutions
 | 222 | [Count Complete Tree Nodes](222.-count-complete-tree-nodes.md) | Medium | 2020-12-02 | 1 |
 | 47 | [Permutations II](47.-permutations-ii.md) | Medium | 2020-12-02 | 1 |
 | 109 | [Convert Sorted List to Binary Search Tree](109.-convert-sorted-list-to-binary-search-tree.md) | Medium | 2020-12-05 | 1 |
-| 18 | [4Sum](18.-4sum.md) | Medium | 2020-12-06 | 1 |
-| 153 | [Find Minimum in Rotated Sorted Array](153.-find-minimum-in-rotated-sorted-array.md) | Medium | 2020-12-07 | 1 |
-| 695 | [Max Area of Island](695.-max-area-of-island.md) | Medium | 2020-12-10 | 1 |
 
 
 
