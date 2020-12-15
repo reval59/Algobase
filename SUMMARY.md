@@ -177,6 +177,7 @@
   * [109. Convert Sorted List to Binary Search Tree](leetcode/109.-convert-sorted-list-to-binary-search-tree.md)
   * [18. 4Sum](leetcode/18.-4sum.md)
   * [153. Find Minimum in Rotated Sorted Array](leetcode/153.-find-minimum-in-rotated-sorted-array.md)
+  * [654. Maximum Binary Tree](leetcode/654.-maximum-binary-tree.md)
   * [695. Max Area of Island](leetcode/695.-max-area-of-island.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
