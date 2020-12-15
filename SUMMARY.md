@@ -179,6 +179,7 @@
   * [153. Find Minimum in Rotated Sorted Array](leetcode/153.-find-minimum-in-rotated-sorted-array.md)
   * [654. Maximum Binary Tree](leetcode/654.-maximum-binary-tree.md)
   * [695. Max Area of Island](leetcode/695.-max-area-of-island.md)
+  * [547. Friend Circles](leetcode/547.-friend-circles.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
