@@ -180,6 +180,7 @@
   * [654. Maximum Binary Tree](leetcode/654.-maximum-binary-tree.md)
   * [695. Max Area of Island](leetcode/695.-max-area-of-island.md)
   * [547. Friend Circles](leetcode/547.-friend-circles.md)
+  * [43. Multiply Strings](leetcode/43.-multiply-strings.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
