@@ -182,6 +182,8 @@ description: Leetcode problems and my solutions
 | 153 | [Find Minimum in Rotated Sorted Array](153.-find-minimum-in-rotated-sorted-array.md) | Medium | 2020-12-07 | 1 |
 | 695 | [Max Area of Island](695.-max-area-of-island.md) | Medium | 2020-12-10 | 1 |
 | 654 | [Maximum Binary Tree](654.-maximum-binary-tree.md) | Medium | 2020-12-14 | 1 |
+| 547 | [Friend Circles](547.-friend-circles.md) | Medium | 2020-12-15 | 1 |
+| 43 | [Multiply Strings](43.-multiply-strings.md) | Medium | 2020-12-16 | 1 |
 
 
 
