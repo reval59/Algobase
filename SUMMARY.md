@@ -182,6 +182,7 @@
   * [547. Friend Circles](leetcode/547.-friend-circles.md)
   * [43. Multiply Strings](leetcode/43.-multiply-strings.md)
   * [310. Minimum Height Trees](leetcode/310.-minimum-height-trees.md)
+  * [516. Longest Palindromic Subsequence](leetcode/516.-longest-palindromic-subsequence.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
