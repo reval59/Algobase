@@ -186,6 +186,7 @@ description: Leetcode problems and my solutions
 | 43 | [Multiply Strings](43.-multiply-strings.md) | Medium | 2020-12-16 | 1 |
 | 310 | [Minimum Height Trees](310.-minimum-height-trees.md) | Medium | 2020-12-17 | 1 |
 | 516 | [Longest Palindromic Subsequence](516.-longest-palindromic-subsequence.md) | Medium | 2020-12-19 | 1 |
+| 241 | [Different Ways to Add Parentheses](241.-different-ways-to-add-parentheses.md) | Medium | 2020-12-20 | 1 |
 
 
 
