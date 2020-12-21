@@ -183,6 +183,7 @@
   * [43. Multiply Strings](leetcode/43.-multiply-strings.md)
   * [310. Minimum Height Trees](leetcode/310.-minimum-height-trees.md)
   * [516. Longest Palindromic Subsequence](leetcode/516.-longest-palindromic-subsequence.md)
+  * [241. Different Ways to Add Parentheses](leetcode/241.-different-ways-to-add-parentheses.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
