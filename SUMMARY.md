@@ -185,6 +185,7 @@
   * [516. Longest Palindromic Subsequence](leetcode/516.-longest-palindromic-subsequence.md)
   * [241. Different Ways to Add Parentheses](leetcode/241.-different-ways-to-add-parentheses.md)
   * [863. All Nodes Distance K in Binary Tree](leetcode/863.-all-nodes-distance-k-in-binary-tree.md)
+  * [143. Reorder List](leetcode/143.-reorder-list.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
