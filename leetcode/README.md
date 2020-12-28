@@ -189,6 +189,7 @@ description: Leetcode problems and my solutions
 | 241 | [Different Ways to Add Parentheses](241.-different-ways-to-add-parentheses.md) | Medium | 2020-12-20 | 1 |
 | 863 | [All Nodes Distance K in Binary Tree](863.-all-nodes-distance-k-in-binary-tree.md) | Medium | 2020-12-22 | 1 |
 | 143 | [Reorder List](143.-reorder-list.md) | Medium | 2020-12-23 | 1 |
+| 402 | [Remove K Digits](402.-remove-k-digits.md) | Medium | 2020-12-28 | 1 |
 
 
 
