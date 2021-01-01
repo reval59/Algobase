@@ -190,6 +190,7 @@ description: Leetcode problems and my solutions
 | 863 | [All Nodes Distance K in Binary Tree](863.-all-nodes-distance-k-in-binary-tree.md) | Medium | 2020-12-22 | 1 |
 | 143 | [Reorder List](143.-reorder-list.md) | Medium | 2020-12-23 | 1 |
 | 402 | [Remove K Digits](402.-remove-k-digits.md) | Medium | 2020-12-28 | 1 |
+| 450 | [Delete Node in a BST](450.-delete-node-in-a-bst.md) | Medium | 2021-01-01 | 1 |
 
 
 

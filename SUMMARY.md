@@ -187,6 +187,7 @@
   * [863. All Nodes Distance K in Binary Tree](leetcode/863.-all-nodes-distance-k-in-binary-tree.md)
   * [143. Reorder List](leetcode/143.-reorder-list.md)
   * [402. Remove K Digits](leetcode/402.-remove-k-digits.md)
+  * [450. Delete Node in a BST](leetcode/450.-delete-node-in-a-bst.md)
 * [Algorithms & Data Structure](algorithms-and-data-structure/README.md)
   * [Sorting](algorithms-and-data-structure/sorting.md)
 
