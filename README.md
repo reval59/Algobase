@@ -6,7 +6,7 @@ description: Noah Kim's personal algobase
 
 Knowledge base to share my ideas, implementations, explorations about algorithms and data structure.
 
-**Every code snippet in this website is implemented by myself**.
+**Every code snippet in this website is implemented by myself.**
 
 [Click this](https://modesty723.gitbook.io/algobase/) to visit my website.
 
